@@ -29,7 +29,7 @@ Bienvenue sur **GENUP2050**, ton coach interactif.
 4. Obtiens un retour personnalisé
 5. Télécharge ton rapport PDF
 """)
-st.video("https://www.youtube.com/watch?v=TON_LIEN_VIDEO")
+st.video("https://www.smooovebox.com/vf/87187b4f68f27b47a8391227df36d06dd0ac53c9")
 
 video_file = st.file_uploader("Téléverse ta vidéo ou audio de pitch :", type=["mp4", "mov", "m4a", "wav", "mp3"])
 
