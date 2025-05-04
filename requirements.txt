@@ -5,3 +5,7 @@ python-dotenv>=0.19
 streamlit-extras>=0.3
 pillow>=9.3
 tqdm 
+pydub
+transformers
+torch
+ffmpeg-python
